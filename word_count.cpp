@@ -1,3 +1,6 @@
+//Count occurrence of each word in a string
+//jithin.rj@gmail.com
+
 #include <iostream>
 using std::cin;
 using std::cout;
